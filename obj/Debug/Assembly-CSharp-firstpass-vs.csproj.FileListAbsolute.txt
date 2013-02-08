@@ -1,0 +1,10 @@
+T:\Antonio\Desktop\UNI\UCM\GameJam\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+T:\Antonio\Desktop\UNI\UCM\GameJam\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+T:\Antonio\Desktop\UNI\UCM\GameJam\Temp\bin\Debug\UnityEditor.dll
+T:\Antonio\Desktop\UNI\UCM\GameJam\Temp\bin\Debug\UnityEngine.dll
+T:\Antonio\Desktop\UNI\UCM\GameJam\Temp\bin\Debug\Mono.Cecil.dll
+T:\Antonio\Desktop\UNI\UCM\GameJam\Temp\bin\Debug\nunit.framework.dll
+T:\Antonio\Desktop\UNI\UCM\GameJam\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+T:\Antonio\Desktop\UNI\UCM\GameJam\obj\Debug\ResolveAssemblyReference.cache
+T:\Antonio\Desktop\UNI\UCM\GameJam\obj\Debug\Assembly-CSharp-firstpass.dll
+T:\Antonio\Desktop\UNI\UCM\GameJam\obj\Debug\Assembly-CSharp-firstpass.pdb
