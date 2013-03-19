@@ -12,30 +12,17 @@ LICENSE
 GENERAL NOTES
 =============
 
-* Description: Gloom is a pure multiplayer Fast-Paced FPS.
-* Technology: C++/Ogre3d/PhysX/Enet - Windows.
+* Description: HeartBeat Hero is game that was developed for January's 2013 GameJam.
+* Technology: Unity3d.
 * Authors:
-
-	** Designers:
-		- Manuel López Ibáñez
-		- Beñat Berasategi Olaizola
-		- Ángel Arenas Civantos
 	
-	** Core Engineers:
+	** Programmers:
 		- Ruben Mulero Guerrero
-		- Antonio Jesus Narváez Corrales
-		- Jose Antonio García Yáñez
-		- Javier Fernández Villanueva
-		- Francisco Aisa García
+		- Antonio Jesus NarvÃ¡ez Corrales
+		- Francisco Aisa GarcÃ­a
 
-	** Collaborators:
-		- David Llansó García
-		- Marco Antonio Gómez Martín
-		- Antonio Sánchez Ruiz-Granados
-		
-* About the project: Gloom is being developed as a masters thesis for the Complutense
-University of Madrid. Please note that the development is in a very early stage. 
-Alpha state gameplay will be available sometime around May 2013.
+	** Artists:
+		- Luz QuiÃ±onero
 
 
 =======	
